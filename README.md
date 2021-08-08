@@ -20,15 +20,27 @@
 ### W3. RxSwift 톺아보기 2
 - Step2 직접 구현해보기 재공유!
 - Filtering Opertaors, Transforming, Combining Operators
+- [3주차 스터디 상세 내용](week3.md)
 
 ### W4. RxSwift 톺아보기 3
-- Time Based Operators, Beginning RxCocoa
-- Intermediate RxCocoa, Error Handling in Practice
-- Intro To Schedulers, Testing with RxTest
+- Time Based Operators
+- Intro To Schedulers (RxSwift) 
+- Scheduler, QoS (iOS)
+- [4주차 스터디 상세 내용](week4.md)
 
-### W5-6. MVVM+RxSwift를 적용한 토이프로젝트 개발
+### W5. RxCocoa 날씨 앱
+- [Beginning RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/12_Beginning%20RxCocoa/Ch12.%20Beginning%20RxCocoa.md)
+- [Intermediate RxCocoa](https://github.com/fimuxd/RxSwift/blob/master/Lectures/13_Intermediate%20RxCocoa/Ch13.Intermediate%20RxCocoa.md)
+
+
+### ...
+- Error Handling in Practice
+- Testing with RxTest
+
+### W6. MVVM+RxSwift를 적용한 토이프로젝트 개발
 
 ### W7... 사이드 프로젝트 기획 ~ 개발
 
 ---
-- RxSwift 톺아보기의 진도는 [SOPT 동아리 커리큘럼](https://github.com/5anniversary/RxSwiftStudy) 참고, [Reactive 공식문서](http://reactivex.io) 기반으로 학습
+- RxSwift 톺아보기의 진도는 [RxSwift 원서](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift) / [코드](https://github.com/raywenderlich/rxs-materials/tree/editions/4.0) / [Reactive 공식문서](http://reactivex.io) 기반으로 학습
+- 추가로 [SOPT 동아리 커리큘럼](https://github.com/5anniversary/RxSwiftStudy) & [RxSwift 스터디](https://github.com/fimuxd/RxSwift) 참고
